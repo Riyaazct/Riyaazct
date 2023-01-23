@@ -75,11 +75,6 @@
 <div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaazct&show_icons=true&locale=en&layout=compact" alt="riyaazct"/></div>
   <div>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Riyaazct&theme=dark)](https://git.io/streak-stats)<div/>
 
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Riyaazct&&style=flat-square" align="center" />
-</div>
 
 <br />
 

@@ -68,7 +68,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Riyaazct&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Riyaazct&show_icons=true&count_private=true&hide_border=true" align="center" />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaazct&show_icons=true&locale=en&layout=compact" alt="riyaazct" /></p> </div>  
 
 <br/>  
 
@@ -83,9 +84,6 @@
 ----
 
 
-
-
-<div align="center"> <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaazct&show_icons=true&locale=en&layout=compact" alt="riyaazct" /></p> </div>
 
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

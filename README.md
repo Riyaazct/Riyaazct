@@ -6,16 +6,16 @@
 ### <div align="center"><h2>I'm Riyaaz, a full-stack developer 👨‍💻 from Cape Town, South Africa🚀</h2></div>  
   
 
-    - 🔭 I’m currently working on [full-Stack assessment project](https://github.com/Riyaazct/Full-Stack-Project-Assessment)
+- 🔭 I’m currently working on [Full-Stack-Project-Assessment](https://github.com/Riyaazct/Full-Stack-Project-Assessment)  
   
 
-    - 🌱 I’m currently learning JavaScript, PostgreSQL, NodeJS, ExpressJS and ReactJS  
+- 🌱 I’m currently learning JavaScript, PostgreSQL, NodeJS, ExpressJS and ReactJS  
   
 
-    - ❓ Ask me about anything related to PERN stack and related technologies  
+- ❓ Ask me about anything related to PERN stack and related technologies  
   
 
-    - ⚡ Fun fact: I use tabs over spaces and I think I am funny... LOL  
+- ⚡ Fun fact: I use tabs over spaces and I think I am funny... LOL  
   
 
 <br/>  

@@ -81,8 +81,11 @@
   
   </div>
 <br />
+  
   <div align="center">
+  
   ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+  
   </div>
 ----
 

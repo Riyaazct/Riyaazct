@@ -69,15 +69,15 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Riyaazct&show_icons=true&count_private=true&hide_border=true" align="center" />
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaazct&show_icons=true&locale=en&layout=compact" alt="riyaazct" /></p> </div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaazct&show_icons=true&locale=en&layout=compact" alt="riyaazct" /> </div>  
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Riyaazct&&style=flat-square" align="center" />
-</div>  
-
 <div align="center"><p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyaazct" alt="riyaazct" /></a> </p></div>
+
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=Riyaazct&&style=flat-square" align="center" />
+</div>
 
 <br />
 

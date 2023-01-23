@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center"><h1>I'm Riyaaz, a full-stack developer 👨‍💻 from Cape Town, South Africa🚀</h1></div>  
+### <div align="center"><h2>I'm Riyaaz, a full-stack developer 👨‍💻 from Cape Town, South Africa🚀</h2></div>  
   
 
     - 🔭 I’m currently working on [A full-Stack assessment project](https://github.com/Riyaazct/Full-Stack-Project-Assessment)  
@@ -74,7 +74,11 @@
   <br/>
 <div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaazct&show_icons=true&locale=en&layout=compact" alt="riyaazct" width="100% /></div>
 
-<br/>  
+<br/> 
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Riyaazct&theme=dark)](https://git.io/streak-stats)
+  
+  <br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Riyaazct&&style=flat-square" align="center" />

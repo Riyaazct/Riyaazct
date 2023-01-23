@@ -84,7 +84,7 @@
   
   <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+  ![](https://komarev.com/ghpvc/?username=Riyaazct&style=flat-square)
   
   </div>
 

@@ -3,19 +3,19 @@
 </div>  
   
 
-### <div align="center">I'm Riyaaz, a full-stack developer 👨‍💻 from Cape Town, South Africa🚀</div>  
+### <div align="center"><h1>I'm Riyaaz, a full-stack developer 👨‍💻 from Cape Town, South Africa🚀</h1></div>  
   
 
-- 🔭 I’m currently working on [A full-Stack assessment project](https://github.com/Riyaazct/Full-Stack-Project-Assessment)  
+    - 🔭 I’m currently working on [A full-Stack assessment project](https://github.com/Riyaazct/Full-Stack-Project-Assessment)  
   
 
-- 🌱 I’m currently learning JavaScript, PostgreSQL, NodeJS, ExpressJS and ReactJS  
+    - 🌱 I’m currently learning JavaScript, PostgreSQL, NodeJS, ExpressJS and ReactJS  
   
 
-- ❓ Ask me about anything related to PERN stack and related technologies  
+    - ❓ Ask me about anything related to PERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces and I think I am funny... LOL  
+    - ⚡ Fun fact: I use tabs over spaces and I think I am funny... LOL  
   
 
 <br/>  
@@ -68,9 +68,11 @@
 
 
 ## Github Stats  
-<div align="center"><p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyaazct" alt="riyaazct" /></a> </p></div>
-<div align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api?username=Riyaazct&show_icons=true&count_private=true&hide_border=true" align="center"/></div>  
-<div align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaazct&show_icons=true&locale=en&layout=compact" alt="riyaazct" /></div>
+<div align="center"><p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyaazct" alt="riyaazct" "/></a> </p></div>
+  </br>
+<div align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api?username=Riyaazct&show_icons=true&count_private=true&hide_border=true" align="center width="100%"/></div>  
+  <br/>
+<div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaazct&show_icons=true&locale=en&layout=compact" alt="riyaazct" width="100% /></div>
 
 <br/>  
 

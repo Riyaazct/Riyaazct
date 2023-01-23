@@ -75,7 +75,7 @@
   <div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaazct&show_icons=true&locale=en&layout=compact" alt="riyaazct"/></div>
   
   <br/>
-  <div>
+  <div align="center">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Riyaazct&theme=dark)](https://git.io/streak-stats)
   

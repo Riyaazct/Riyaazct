@@ -6,7 +6,7 @@
 ### <div align="center"><h2>I'm Riyaaz, a full-stack developer 👨‍💻 from Cape Town, South Africa🚀</h2></div>  
   
 
-    - 🔭 I’m currently working on [A full-Stack assessment project](https://github.com/Riyaazct/Full-Stack-Project-Assessment)  
+    - 🔭 I’m currently working on [A full-Stack assessment project] (https://github.com/Riyaazct/Full-Stack-Project-Assessment)  
   
 
     - 🌱 I’m currently learning JavaScript, PostgreSQL, NodeJS, ExpressJS and ReactJS  

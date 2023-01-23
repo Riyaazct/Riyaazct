@@ -70,9 +70,9 @@
 ## Github Stats  
 <div align="center"><p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyaazct" alt="riyaazct" "/></a> </p></div>
   </br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Riyaazct&show_icons=true&count_private=true&hide_border=true" width="100%"/></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Riyaazct&show_icons=true&count_private=true&hide_border=true"/></div>  
   <br/>
-<div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaazct&show_icons=true&locale=en&layout=compact" alt="riyaazct" width="100% /></div>
+<div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaazct&show_icons=true&locale=en&layout=compact" alt="riyaazct"/></div>
 
 <br/> 
   

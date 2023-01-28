@@ -16,14 +16,11 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces and I think I am funny... LOL  
-  
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
-
 
 
 ### Frontend  

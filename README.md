@@ -2,6 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
+  
 
 ### <div align="center"><h2>I'm Riyaaz, a full-stack developer 👨‍💻 from Cape Town, South Africa🚀</h2></div>  
   

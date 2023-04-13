@@ -7,10 +7,10 @@
 ### <div align="center"><h2>I'm Riyaaz, a full-stack developer 👨‍💻 from Cape Town, South Africa🚀</h2></div>  
   
 
-- 🔭 I’m currently working on [Full-Stack-Project-Assessment](https://github.com/Riyaazct/Full-Stack-Project-Assessment)  
+- 🔭 I’m currently working on [Our Final project](https://github.com/Riyaazct/no-bugs-edufocus-za)  
   
 
-- 🌱 I’m currently learning JavaScript, PostgreSQL, NodeJS, ExpressJS and ReactJS  
+- 🌱 I’m currently learning MongoDb and TDD
   
 
 - ❓ Ask me about anything related to PERN stack and related technologies  

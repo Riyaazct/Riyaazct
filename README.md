@@ -7,7 +7,7 @@
 ### <div align="center"><h2>I'm Riyaaz, a full-stack developer 👨‍💻 from Cape Town, South Africa🚀</h2></div>  
   
 
-- 🔭 I’m currently working on [Our Final project](https://github.com/Riyaazct/no-bugs-edufocus-za)  
+- 🔭 I’m currently working on [A business website for a travel and tours company](https://github.com/Riyaazct/exploringsa)  
   
 
 - 🌱 I’m currently learning MongoDb and TDD
@@ -16,7 +16,7 @@
 - ❓ Ask me about anything related to PERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces and I think I am funny... LOL  
+- ⚡ Fun fact: I use tabs over spaces, I'm actually shy but people who know me don't believe it and I think I have a good sense of humour.
 
 <br/>  
 

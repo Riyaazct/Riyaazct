@@ -16,7 +16,7 @@
 - ❓ Ask me about anything related to PERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces, I'm actually shy but people who know me don't believe it and I think I have a good sense of humour.
+- ⚡ Fun fact: I use tabs over spaces, I'm actually a very shy person but people don't believe it, and I have a good sense of humour.
 
 <br/>  
 

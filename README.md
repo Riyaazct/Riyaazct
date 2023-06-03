@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [A business website for a travel and tours company](https://github.com/Riyaazct/exploringsa)  
   
 
-- 🌱 I’m currently learning MongoDb and TDD
+- 🌱 I’m currently learning cypress end to end testing and then MongoDb
   
 
 - ❓ Ask me about anything related to PERN stack and related technologies  

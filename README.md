@@ -8,7 +8,7 @@
 ### <div align="center"><h2>I'm Riyaaz, a full-stack developer 👨‍💻 from Cape Town, South Africa🚀</h2></div>  
   
 
- 🔭 I’m currently working on [An online quotation generator](https://github.com/Riyaazct/all-in-one-quotation-generator)
+ 🔭 I’m currently working on [A full-stack To do list](https://github.com/Riyaazct/todos)
   
 
 - 🌱 I’m currently learning cypress end to end testing and then MongoDb

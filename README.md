@@ -11,7 +11,7 @@
  🔭 I’m currently working on [A full-stack To do list](https://github.com/Riyaazct/todos), View the live link [here](https://todo-list-react-two-black.vercel.app/) 
   
 
-- 🌱 I’m currently learning cypress end to end testing and then MongoDb
+- 🌱 I’m currently learning redux toolkit and authentication / authorisation with jwt tokens and also social media log in authentication and authorisation.
   
 
 - ❓ Ask me about anything related to PERN stack and related technologies  

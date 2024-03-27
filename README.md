@@ -8,7 +8,7 @@
 ### <div align="center"><h2>I'm Riyaaz, a full-stack developer 👨‍💻 from Cape Town, South Africa🚀</h2></div>  
   
 
- 🔭 I’m currently working on [A full-stack To do list](https://github.com/Riyaazct/todos)
+ 🔭 I’m currently working on [A full-stack To do list](https://github.com/Riyaazct/todos), View the live link [here](todo-list-react-two-black.vercel.app/) 
   
 
 - 🌱 I’m currently learning cypress end to end testing and then MongoDb
